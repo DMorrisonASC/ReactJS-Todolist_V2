@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Ensure this matches the 'dist' directory
   },
+  base: '/ReactJS-Todolist_V2/',
 })
